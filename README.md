@@ -11,7 +11,7 @@ I design and build cloud projects on AWS end to end, from architecture diagram t
 |---|---|---|
 | [Serverless CRUD Task Manager](https://github.com/KarthikaDharmaraj/aws-serverless-crud-task-manager) | S3, API Gateway, Lambda (Python), DynamoDB, IAM, CloudWatch | Full-stack serverless app, least-privilege IAM, CORS, USD 0 cost |
 | [Secure Static Website Hosting](https://github.com/KarthikaDharmaraj/aws-static-website-hosting) | S3, CloudFront, OAC | Private bucket served over HTTPS via CloudFront |
-| WordPress on a LAMP Stack *(in progress)* | EC2, Ubuntu, Apache, PHP, database | Linux server built from scratch |
+| [WordPress on a LAMP Stack](https://github.com/KarthikaDharmaraj/aws-wordpress-lamp) *(in progress)* | EC2, Ubuntu, Apache, PHP, MariaDB, Security Groups | Linux server built from scratch, private database, SSH locked to one IP |
 
 ## 🛠️ Skills
 
